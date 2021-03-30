@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ToDoList/.idea/ToDoList.iml" filepath="$PROJECT_DIR$/../ToDoList/.idea/ToDoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iut.iml" filepath="$PROJECT_DIR$/.idea/iut.iml" />
+    </modules>
+  </component>
+</project>
